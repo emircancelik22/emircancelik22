@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emircan Çelik
+- 👀 I’m interested in AI and Video Games
+- 🌱 I’m currently learning AI with Python
+- 💞️ I’m looking to collaborate on my Rogue-Like game
+- 📫 How to reach me emir.can2@hotmail.com 
